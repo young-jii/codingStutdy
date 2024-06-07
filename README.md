@@ -1,2 +1,3 @@
-# BaekjoonStudy
-백준 문제 풀이 모음
+# Python Study
+
+백준 / 프로그래머스 풀이
