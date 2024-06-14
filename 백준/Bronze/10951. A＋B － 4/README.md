@@ -2,6 +2,8 @@
 
 [문제 링크](https://www.acmicpc.net/problem/10951) 
 
+## EOFError 에 대한 문제!
+
 ### 성능 요약
 
 메모리: 31120 KB, 시간: 48 ms
